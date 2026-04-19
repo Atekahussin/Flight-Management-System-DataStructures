@@ -7,6 +7,11 @@
 ## 📌 Project Overview
 The **Flight Management System** is a comprehensive software solution designed for the airline industry to manage passenger information. It bridges the gap between passengers and managers through a menu-driven interface, handling everything from ticket purchases to complex administrative searches.
 
+## 🖥️ System Interface
+Below is a preview of the main menu and the options available in the Flight Management System:
+
+![System Main Menu](./Screenshots/menu_preview.png)
+
 ## 🏗️ Data Structure & Methodology
 The core of this system is built on a **Singly Linked List** data structure.
 - **Dynamic Memory Allocation:** Used to handle varying numbers of passengers efficiently without wasting memory.
