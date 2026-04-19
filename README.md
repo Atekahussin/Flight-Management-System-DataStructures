@@ -35,9 +35,9 @@ The core of this system is built on a **Singly Linked List** data structure.
 
 ## 📁 Repository Structure
 - `Code/`: Contains `FlightManagmentSystem_FinalDraft.cpp` (The source code).
-- `Documentation/`: Full technical report (PDF/DOCX) detailing the methodology and problem statement.
+- `Documentation/`: Full technical report (PDF) detailing the methodology and problem statement.
 - `Presentation/`: Project slides (PowerPoint) used for the final evaluation.
-
+- `Screenshots/`
 ## 👥 The Team
 Developed by Computer Science students at **King Faisal University**:
 - **Atekah Hussain Aljafar**
